@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <html lang="eng">
+<head>
+    <title>Code Tahoe Course Offerings</title>
+</head>
+<body>
+    <h1>
+        <img src="https://github.com/CodeTahoe/CT100/blob/master/exercises/containers/logo.png?raw=true"> Welcome to Code Tahoe
+    </h1>
+   <div>
+       <hr class="seperator">
+   </div>
+      <nav>
+        <ol>
+           <li><a href="">Home</a></li>
+          <li><a href="">About</a></li>
+          <li><a href="">Register</a></li>
+          <li><a href="">Courses</a></li>
+          <li><a href="">Contact</a></li>
+        </ol>
+      </nav>
+      <div>
+          <section><h1>Course Offerings</h1>
+            PUBLIC INFO SESSION
+              <article>Curious to find out more? Not sure about which course program might be right for you ased on your needs? This is your chance...follow the above link and sign up (it's free so you have nothing to lose!)</article>
+              </br>
+           INTRO TO FRONT END WEB DEVELOPMENT
+              <article>This course assumes you have little to no experience in developing web applications. The classes will be held 3 nights a week, 3 hours/night (class and lab time), student will have good understanding of the style languages of HTML and CSS as well as basic logic with JavaScript, and we will provide intros to some client side frameworks and libraries</article>
+            </br>
+            RUBY ON RAILS & POSTGRESQL
+              <article>The students will spend 2 nights a week for 90 minutes/night. Each student will have a good understanding of the Ruby language, the Rails framework, and Relational Databases with PostgreSQL through Rals Active Record. </article>  
+              
+              <p>**This course furthers the skills taught in the front end program nd guides the learning through the full development life cycle**<p>
+            </section>
+   <div>
+       <hr class="seperator">
+   </div>
+  </div>
+  
+  <footer>
+    <nav>
+      <ul>
+        <li><a href="">Copywrite 2016</a></li>
+        <li><a href="">Terms of Use</a></li>
+        <li><a href="">An Elevate Blue Company</a></li>
+      </ul>
+    </nav>
+  </footer>
+     
+</body>
+</html>
